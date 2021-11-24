@@ -25,5 +25,5 @@ fields:
   label: type
   default: post
 pages:
-- content/the-terms-everybody-should-know-before-starting-seo.md
-- content/what-courses-you-are-using-for-website-analytics.md
+- content/first-blog-post.md
+- content/second-blog-post.md
