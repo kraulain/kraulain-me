@@ -1,0 +1,135 @@
+############################ Default configuration #########################
+baseURL = "https://kraulain.me/"
+languageCode = "en-us"
+# site title
+title = "Learn Clojure"
+# theme
+theme = "northendlab-light"
+# post pagination
+paginate = "5"
+# post excerpt
+summaryLength = "10"
+# disqus short name
+disqusShortname = "" # get your shortname form here : https://disqus.com
+
+[outputs]
+home = ["HTML", "AMP", "RSS", "JSON"]
+
+########################## Plugings ######################################
+
+# css plugins
+[[params.plugins.css]]
+link = "plugins/bootstrap/bootstrap.min.css"
+[[params.plugins.css]]
+link = "plugins/themify-icons/themify-icons.css"
+
+# js plugins
+[[params.plugins.js]]
+link = "plugins/jQuery/jquery.min.js"
+[[params.plugins.js]]
+link = "plugins/bootstrap/bootstrap.min.js"
+[[params.plugins.js]]
+link = "plugins/search/fuse.min.js"
+[[params.plugins.js]]
+link = "plugins/search/mark.js"
+[[params.plugins.js]]
+link = "plugins/search/search.js"
+
+
+########################### Navigation ###################################
+
+# main menu
+[[menu.main]]
+URL = "author/fosso-arcel"
+name = "About"
+weight = 1
+
+[[menu.main]]
+URL = "courses"
+name = "Courses"
+weight = 2
+
+[[menu.main]]
+URL = "contact"
+name = "Contact"
+weight = 3
+
+# footer menu
+[[menu.footer]]
+URL = "author/fosso-arcel"
+name = "About"
+weight = 1
+
+[[menu.footer]]
+URL = "courses"
+name = "Courses"
+weight = 2
+
+[[menu.footer]]
+URL = "contact"
+name = "Contact"
+weight = 3
+
+
+######################### Default Parameters ###########################
+[params]
+# home
+home = "Home"
+# logo
+logo = "images/kraulain-logo.png"
+# meta data
+author = "Kraulain"
+description = "Fosso Arcel"
+# google tag manager
+google_tag_manager = "" # your id
+# contact form action
+contact_form_action = "https://formspree.io/f/mgergbrv" # contact form works with : https://formspree.io
+# copyright
+copyright = "&copy; 2021 [kraulain.me](https://kraulain.me)"
+
+# preloader
+[params.preloader]
+enable = true
+preloader = "" # use png, jpg, svg or gif format
+
+# search
+[params.search]
+enable = true
+
+# cookies
+[params.cookies]
+enable = true
+expire_days = 2
+
+####################### banner #######################################
+[params.banner]
+bgImage = "images/banner/banner-bg.svg"
+title = "Hi, I'm Kraulain. <br> I help people<br> learn Clojure"
+image = "images/banner/cover-image.svg"
+
+
+######################## call to action ###############################
+[params.cta]
+enable = true
+image = "images/ko-fi.png"
+title = "Support me on Ko-fi"
+description = "Do you love what I do? You can buy me a Coffee."
+[params.cta.button]
+enable = true
+label = "Buy Now"
+link = "https://ko-fi.com/kraulain"
+
+
+############################## Social Site ##########################
+[[params.social]]
+icon = "ti-facebook" # themify icon pack https://themify.me/themify-icons
+link = "https://www.facebook.com/kraulain"
+[[params.social]]
+icon = "ti-twitter-alt" # themify icon pack https://themify.me/themify-icons
+link = "https://twitter.com/kraulain"
+[[params.social]]
+icon = "ti-github" # themify icon pack https://themify.me/themify-icons
+link = "https://github.com/kraulain"
+[[params.social]]
+icon = "ti-linkedin" # themify icon pack https://themify.me/themify-icons
+link = "https://www.linkedin.com/in/kamwa-f-a-raulain-959208ba"
