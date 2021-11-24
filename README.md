@@ -1,1 +1,3 @@
-# kraulain-me
+# About
+---
+This is a simple blog built using Hugo
