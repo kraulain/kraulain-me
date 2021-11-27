@@ -5,27 +5,27 @@ courses:
   # course loop in course category
   - name: Data Structures
     image: "/images/courses/Git.png"
-    link: https://git-scm.com/
+    link: https://www.youtube.com/channel/UCTKWtKk9yy1KrMdS66mOBcA
   # course loop in course category
   - name: Functions
     image: "/images/courses/Atom.png"
-    link: https://atom.io/
+    link: https://www.youtube.com/channel/UCTKWtKk9yy1KrMdS66mOBcA
   # course loop in course category
   - name: Namespaces
     image: "/images/courses/Notepad.png"
-    link: https://notepad-plus-plus.org/
+    link: https://www.youtube.com/channel/UCTKWtKk9yy1KrMdS66mOBcA
   # course loop in course category
   - name: Macros
     image: "/images/courses/sublime.png"
-    link: https://www.sublimetext.com/
+    link: https://www.youtube.com/channel/UCTKWtKk9yy1KrMdS66mOBcA
   # course loop in course category
   - name: Reducers
     image: "/images/courses/vs-code.png"
-    link: https://code.visualstudio.com/
+    link: https://www.youtube.com/channel/UCTKWtKk9yy1KrMdS66mOBcA
   # course loop in course category
   - name: Testing with Spec
     image: "/images/courses/vs-code.png"
-    link: https://code.visualstudio.com/
+    link: https://www.youtube.com/channel/UCTKWtKk9yy1KrMdS66mOBcA
 
 
 # course category
@@ -34,23 +34,23 @@ courses:
   # course loop in course category
   - name: Reagent
     image: "/images/courses/sketch.png"
-    link: https://www.sketch.com/
+    link: https://www.youtube.com/channel/UCTKWtKk9yy1KrMdS66mOBcA
   # course loop in course category
   - name: Re-frame
     image: "/images/courses/illustrator.png"
-    link: https://www.adobe.com/products/illustrator.html
+    link: https://www.youtube.com/channel/UCTKWtKk9yy1KrMdS66mOBcA
   # course loop in course category
   - name: Reitit
     image: "/images/courses/invision.png"
-    link: https://www.invisionapp.com/studio
+    link: https://www.youtube.com/channel/UCTKWtKk9yy1KrMdS66mOBcA
   # course loop in course category
   - name: Integrant
     image: "/images/courses/xd.png"
-    link: https://www.adobe.com/products/xd.html
+    link: https://www.youtube.com/channel/UCTKWtKk9yy1KrMdS66mOBcA
   # course loop in course category
   - name: Fulcro
     image: "/images/courses/figma.png"
-    link: https://www.figma.com/
+    link: https://www.youtube.com/channel/UCTKWtKk9yy1KrMdS66mOBcA
 
 
 # course category
@@ -59,16 +59,16 @@ courses:
   # course loop in course category
   - name: Datomic
     image: "/images/courses/MailChimp.jpg"
-    link: https://mailchimp.com/
+    link: https://www.youtube.com/channel/UCTKWtKk9yy1KrMdS66mOBcA
   # course loop in course category
   - name: Emacs
     image: "/images/courses/Buffer.jpg"
-    link: https://buffer.com/
+    link: https://www.youtube.com/channel/UCTKWtKk9yy1KrMdS66mOBcA
   # course loop in course category
   - name: Polylith Architecture
     image: "/images/courses/Bitly.jpg"
-    link: https://bitly.com/
+    link: https://www.youtube.com/channel/UCTKWtKk9yy1KrMdS66mOBcA
   # course loop in course category
   - name: Deps
     image: "/images/courses/Hotjar.jpg"
-    link: https://www.hotjar.com/
+    link: https://www.youtube.com/channel/UCTKWtKk9yy1KrMdS66mOBcA
