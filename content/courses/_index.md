@@ -1,6 +1,6 @@
 ---
 title: "Courses"
 draft: false
-description : "this is meta description"
+description : "Here is a list of all the available courses"
 layout: courses
 ---
